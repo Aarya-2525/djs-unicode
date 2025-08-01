@@ -21,7 +21,6 @@ This repository is a testament to that process: methodical, curious, and driven 
 This repo documents my progress from the ground up. Here’s a snapshot of where I am right now:
 
 * **Python Fundamentals:** Basic understanding of core concepts including Data Structures, Object-Oriented Programming (OOP), Decorators, and File I/O. I've focused on writing clean, Pythonic code.
-* **Essential Libraries:** Hands-on experience with standard libraries like `os`, `json`, and `datetime`, as well as third-party libraries like `requests` for interacting with APIs.
 * **Version Control:** A Rookie with Git and GitHub for tracking changes, managing branches, and collaborating on code.
 
 You can explore the folders in this repository to see my commented code, practice problems, and mini-projects where I apply these concepts.
